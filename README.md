@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ph1l1pF - Philip Frerk
+- 👀 I’m interested in Web Development and Backend Development.
+- 🌱 I’m currently learning React Native.
+- 📫 How to reach me (LinkedIn): https://www.linkedin.com/in/philip-frerk-6a3128152/
