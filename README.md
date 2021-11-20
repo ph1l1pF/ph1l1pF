@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ph1l1pF - Philip Frerk
 - 👀 I’m interested in Web Development and Backend Development.
-- 📫 How to reach me (LinkedIn): https://www.linkedin.com/in/philip-frerk-6a3128152/
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/philip-frerk-6a3128152/) or [Website](https://www.philip-frerk.de)
